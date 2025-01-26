@@ -1,10 +1,10 @@
-The objective of this assignment is to design an object-oriented system and gain implementation
-experience in C++ while using classes, data structures, and unique C++ properties such as
+This assignment aims to design an object-oriented system and gain implementation
+experience in C++ using classes, data structures, and unique C++ properties such as
 the “Rule of 5”. You will learn how to handle memory in C++ and avoid memory leaks. The resulting
 program must be as efficient as possible.
-3 Assignment Definition
+
 In our studio, we offer many workout plans (options). We have talented trainers who are experts in all
-of our workout options (Yoga, Pilates, CrossFit, etc.), where each exercise can be Cardio Anaerobic
+our workout options (Yoga, Pilates, CrossFit, etc.), where each exercise can be cardio-anaerobic
 or Mixed. For example, Yoga is considered an anaerobic exercise, while spinning (cycling) is a mixed
 exercise.
 In this assignment, you will write a C++ program that
